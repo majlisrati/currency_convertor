@@ -1,1 +1,1 @@
-# currency_convertor
+delete README.md
